@@ -33,9 +33,7 @@ public class VerifyUserCanLogin {
 	 Login lp;
 	 Home hp;
 	 ExtentHtmlReporter extentReporter;
-	 
 	 ExtentReports report;
-	 
 	 ExtentTest test;
 	 
 	
